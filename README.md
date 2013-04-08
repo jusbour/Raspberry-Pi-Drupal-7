@@ -5,7 +5,7 @@ Drupal 7 & Dependency Installation Shell Script for the Raspberry Pi.  This is i
 
 <h3>Installation Instructions:</h3>
 
-    git http://github.com/LikeABoss-001/Raspberry-Pi-Drupal-7.git
+    git clone http://github.com/LikeABoss-001/Raspberry-Pi-Drupal-7.git
     cd ~/Raspberry-Pi-Drupal-7
     sudo bash install.sh
     
